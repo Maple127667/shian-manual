@@ -28,7 +28,7 @@ features:
     details: 山山的骰子功能来自于海豹seal，同时支持了coc和dnd的大部分可能会使用到的功能，具体功能请查阅手册
     icon: 🎲
   - title: 较为稳定的分离式部署
-    details: 使用了lagrange进行分离式部署，随时可以更换的协议和连接方式，只要还有能用的消息接收山山就会活着的！。
+    details: 使用了lagrange进行分离式部署，随时可以更换的协议和连接方式，只要还有能用的消息接收山山就会活着的！
     icon: 📃
   - title: 更为丰富的插件
     details: 除了海豹，山山还额外搭载了nonebot2以拓展功能，不仅可以用python自己写插件，还能在nonebot2的插件商店选择更多的功能。
