@@ -6,7 +6,7 @@ title: 诗岸
 titleTemplate: 流星 它悄悄地落下
 
 hero:
-  name: 1
+  name:  
   text: 诗岸 使用手册
   tagline: 以seal，nonebot2，lagrange架构搭建的QQ机器人
   image:
