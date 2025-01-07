@@ -22,6 +22,9 @@ hero:
     - theme: alt
       text: GitHub 上浏览代码插件
       link: https://github.com/Maple127667/shian-bot-plugin-repository
+    - theme: alt
+      text: 加入诗岸的用户群！
+      link: https://qm.qq.com/q/eJv9dqDe5G
 
 features:
   - title: 骰娘的基础功能！
