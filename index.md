@@ -24,7 +24,7 @@ hero:
       link: https://github.com/Maple127667/shian-bot-plugin-repository
     - theme: alt
       text: 加入诗岸的用户群！
-      link: https://qm.qq.com/q/eJv9dqDe5G
+      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DjB6fTKbgrj9y2Ev-P4xd65Lgwb-qbas&authKey=PcvHV%2BFIqY8GefaB8VksXRJZaUFtSNlYbslkFA5rIywCkOf%2BcfVOuCOzq5hTChT7&noverify=0&group_code=1075528160
 
 features:
   - title: 骰娘的基础功能！
